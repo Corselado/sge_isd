@@ -1,6 +1,8 @@
 # DOCUMENTACION
 ## [PDF](./pdf/Factura_INV_2024_00002.pdf)
+
 Iniciamos odoo y nos vamos al apartado facturación.
+
 Al ser la primera vez simplemente seguiremos los pasos del propio asistente, comenzamos indicando la inforrmación de la compañía. En mi caso el nombre será ISD Computers.
 A continuación, diseñamos la factura.
 Mantendré el diseño por defecto, a excepción de añadir un logo,una imagen de fondo y los colores de encabezado y el total.
